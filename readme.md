@@ -2,7 +2,7 @@
 
 ### status
 
-[![Linux Users](https://github.com/troglodyte-stdlib/troglo-player-c/actions/workflows/ci_runner_linux.yml/badge.svg)](https://github.com/troglodyte-stdlib/troglo-player-c/actions/workflows/ci_runner_linux.yml) [![MacOSX Users](https://github.com/troglodyte-stdlib/troglo-player-c/actions/workflows/ci_runner_macosx.yml/badge.svg)](https://github.com/troglodyte-stdlib/troglo-player-c/actions/workflows/ci_runner_macosx.yml) [![Windows Users](https://github.com/troglodyte-stdlib/troglo-player-c/actions/workflows/ci_runner_windows.yml/badge.svg)](https://github.com/troglodyte-stdlib/troglo-player-c/actions/workflows/ci_runner_windows.yml)
+[![Linux Users](https://github.com/troglodyte-stdlib/troglo-struct-gamer-c/actions/workflows/ci_runner_linux.yml/badge.svg)](https://github.com/troglodyte-stdlib/troglo-struct-gamer-c/actions/workflows/ci_runner_linux.yml) [![MacOSX Users](https://github.com/troglodyte-stdlib/troglo-struct-gamer-c/actions/workflows/ci_runner_macosx.yml/badge.svg)](https://github.com/troglodyte-stdlib/troglo-struct-gamer-c/actions/workflows/ci_runner_macosx.yml) [![Windows Users](https://github.com/troglodyte-stdlib/troglo-struct-gamer-c/actions/workflows/ci_runner_windows.yml/badge.svg)](https://github.com/troglodyte-stdlib/troglo-struct-gamer-c/actions/workflows/ci_runner_windows.yml)
 
 ## overview
 
